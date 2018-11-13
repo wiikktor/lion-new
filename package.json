@@ -1,0 +1,25 @@
+{
+
+  "name": "lion-new",
+
+  "description": "lion data",
+
+  "version": "0.0.1",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
